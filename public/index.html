@@ -656,7 +656,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "967d7936-26bc-4df4-b9e6-cad62518c6ac";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "967d7936-26bc-4df4-b9e6-cad62518c6ac";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -1154,7 +1154,7 @@
 </script>
   
   <main id="main">
-    <section class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim" data-zappy-section="true">
+    <section class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim" data-zappy-section="true" id="zappy-section-0">
   <!-- Background Image Layer -->
   <div class="index-hero-bg" style="background-image: url('assets/site-index-hero-image-1.webp'); background-size: cover; background-position: center;"></div>
 
@@ -1197,7 +1197,7 @@
       </div>
 
       <!-- Main Headline -->
-      <h1 class="index-hero-h1">אמירים פתרונות נדל״ן</h1>
+      <h1 class="index-hero-h1" ></h1><h1>אמירים פתרונות נדל״ן</h1>
 
       <!-- Gold rule -->
       <div class="index-hero-gold-rule" aria-hidden="true"></div>
@@ -1207,8 +1207,8 @@
 
       <!-- CTA Buttons -->
       <div class="index-hero-ctas">
-        <a href="#contact" class="index-hero-btn-primary">צרו קשר עכשיו</a>
-        <a href="#properties" class="index-hero-btn-secondary">לנכסים שלנו</a>
+        <a href="#contact" class="index-hero-btn-primary" data-element-type="button" data-element-id="btn-1779734208115-r6e8oxmzw" data-native-element="true">צרו קשר עכשיו</a>
+        <a href="#properties" class="index-hero-btn-secondary" data-element-type="button" data-element-id="btn-1779734208115-4607hopif" data-native-element="true">לנכסים שלנו</a>
       </div>
     </div>
 
