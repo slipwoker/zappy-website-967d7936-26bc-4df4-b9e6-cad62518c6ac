@@ -2,13 +2,13 @@
 
 A veteran Jerusalem-based real estate broker with extensive experience serving both the local Israeli population and the Anglo-Saxon (English-speaking) community. The brand must project professionalism, trustworthiness, and a clean, polished image. The website needs to be fully bilingual (Hebrew and English), catering to two distinct cultural audiences while maintaining a unified, credible, and sophisticated presence that reflects years of local expertise in Jerusalem's diverse neighborhoods.
 
-Source: https://-967d7936.zappy5.app
+Source: https://example.com
 
 ---
 
 ## מצאו את הבית המושלם בירושלים — אמירים פתרונות נדל&quot;ן
 
-URL: https://-967d7936.zappy5.app
+URL: https://example.com
 Description: סוכן נדל&quot;ן מוביל בירושלים עם ניסיון עשיר בשוק המקומי והבינלאומי. מחפשים נכס? אנחנו מביאים לכם מומחיות, אמינות ותוצאות מוכחות. גלו עכשיו!
 
 מצאו את הבית המושלם בירושלים — אמירים פתרונות נדל"ן
@@ -408,7 +408,7 @@ Description: סוכן נדל&quot;ן מוביל בירושלים עם ניסיו
 
 ## פתרונות נדל&quot;ן מקצועיים שיקדמו אתכם — אמירים פתרונות נדל&quot;ן
 
-URL: https://-967d7936.zappy5.app/services
+URL: https://example.com/services
 Description: מרכישה ועד מכירה, אנחנו מציעים שירותי נדל&quot;ן מקיפים הכוללים תיווך, ליווי עסקאות ורישום נכסים מסחריים. הצלחת העסקה שלכם מתחילה כאן — פנו אלינו היום!
 
 פתרונות נדל"ן מקצועיים שיקדמו אתכם — אמירים פתרונות נדל"ן
@@ -825,7 +825,7 @@ Description: מרכישה ועד מכירה, אנחנו מציעים שירות�
 
 ## הסיפור מאחורי המומחיות הירושלמית — אמירים פתרונות נדל&quot;ן
 
-URL: https://-967d7936.zappy5.app/about
+URL: https://example.com/about
 Description: היכרו עם הצוות הוותיק שמאחורי אמירים פתרונות נדל&quot;ן — עשרות שנות ניסיון בשוק הירושלמי, שירות דו-לשוני ומחויבות מלאה לכל לקוח. כי אמון הוא הבסיס לכל עסקה מוצלחת.
 
 הסיפור מאחורי המומחיות הירושלמית — אמירים פתרונות נדל"ן
@@ -1191,7 +1191,7 @@ Commercial Real Estate
 
 ## דברו איתנו ותתחילו את המסע הנדל&quot;ני שלכם — אמירים פתרונות נדל&quot;ן
 
-URL: https://-967d7936.zappy5.app/contact
+URL: https://example.com/contact
 Description: רוצים לקנות, למכור או להשקיע בנדל&quot;ן בירושלים? צרו קשר עם סוכן הנדל&quot;ן המוביל שלנו עוד היום ותקבלו ייעוץ מקצועי ואישי שיוביל אתכם להחלטה הנכונה. אנחנו כאן בשבילכם!
 
 דברו איתנו ותתחילו את המסע הנדל"ני שלכם — אמירים פתרונות נדל"ן
@@ -1456,7 +1456,7 @@ Description: רוצים לקנות, למכור או להשקיע בנדל&quot;�
 
 ## מוצרים
 
-URL: https://-967d7936.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - אמירים פתרונות נדל"ן
 
 מוצרים - אמירים פתרונות נדל"ן
@@ -1625,7 +1625,7 @@ Description: המוצרים שלנו - אמירים פתרונות נדל"ן
 
 ## פרטי המוצר
 
-URL: https://-967d7936.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - אמירים פתרונות נדל"ן
 
 פרטי המוצר - אמירים פתרונות נדל"ן
@@ -1772,7 +1772,7 @@ Description: פרטי המוצר - אמירים פתרונות נדל"ן
 
 ## מוצרים
 
-URL: https://-967d7936.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - אמירים פתרונות נדל"ן
 
 מוצרים - אמירים פתרונות נדל"ן
@@ -1943,7 +1943,7 @@ Description: מוצרים - אמירים פתרונות נדל"ן
 
 ## מדיניות פרטיות
 
-URL: https://-967d7936.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2157,7 +2157,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-967d7936.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2380,7 +2380,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-967d7936.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

@@ -7,45 +7,45 @@
 ## Pages
 
 ### בית
-https://-967d7936.zappy5.app
+https://example.com
 סוכן נדל&quot;ן מוביל בירושלים עם ניסיון עשיר בשוק המקומי והבינלאומי. מחפשים נכס? אנחנו מביאים לכם מומחיות, אמינות ותוצאות מוכחות. גלו עכשיו!
 
 ### שירותים
-https://-967d7936.zappy5.app/services
+https://example.com/services
 מרכישה ועד מכירה, אנחנו מציעים שירותי נדל&quot;ן מקיפים הכוללים תיווך, ליווי עסקאות ורישום נכסים מסחריים. הצלחת העסקה שלכם מתחילה כאן — פנו אלינו היום!
 
 ### אודות
-https://-967d7936.zappy5.app/about
+https://example.com/about
 היכרו עם הצוות הוותיק שמאחורי אמירים פתרונות נדל&quot;ן — עשרות שנות ניסיון בשוק הירושלמי, שירות דו-לשוני ומחויבות מלאה לכל לקוח. כי אמון הוא הבסיס לכל עסקה מוצלחת.
 
 ### צור קשר
-https://-967d7936.zappy5.app/contact
+https://example.com/contact
 רוצים לקנות, למכור או להשקיע בנדל&quot;ן בירושלים? צרו קשר עם סוכן הנדל&quot;ן המוביל שלנו עוד היום ותקבלו ייעוץ מקצועי ואישי שיוביל אתכם להחלטה הנכונה. אנחנו כאן בשבילכם!
 
 ### Products
-https://-967d7936.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - אמירים פתרונות נדל"ן
 
 ### Product Detail
-https://-967d7936.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - אמירים פתרונות נדל"ן
 
 ### Category
-https://-967d7936.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - אמירים פתרונות נדל"ן
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-967d7936.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-967d7936.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-967d7936.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -74,8 +74,8 @@ Real Estate
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-967d7936.zappy5.app/sitemap.xml
-- Robots: https://-967d7936.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-967d7936.zappy5.app/llms-full.txt
-- Products (JSON): https://-967d7936.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-967d7936.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
