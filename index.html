@@ -252,6 +252,305 @@
     <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>
     <!-- Mickidum Accessibility Toolbar -->
     <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
+
+<style data-zappy-section-v2-css="true">
+/* V2 Regenerated Section CSS */
+.index-hero-section {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  overflow: visible;
+  background-color: #1C3148;
+  color: var(--text-light);
+  display: flex;
+  align-items: center;
+  padding-bottom: 60px;
+  direction: rtl;
+}
+
+/* Background Image Layer */
+.index-hero-section .index-hero-bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #1C3148;
+  background-size: cover;
+  background-position: center;
+}
+
+/* Scrim Overlay */
+.index-hero-section .index-hero-scrim {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  background-image:
+    linear-gradient(180deg,
+      rgba(18, 32, 48, 0.55) 0%,
+      rgba(18, 32, 48, 0.62) 40%,
+      rgba(18, 32, 48, 0.88) 100%
+    );
+}
+
+/* Jerusalem Cityline Motif */
+.index-hero-section .index-hero-cityline {
+  position: absolute;
+  top: 0;
+  inset-inline-start: 0;
+  width: 260px;
+  height: auto;
+  z-index: 2;
+  pointer-events: none;
+  opacity: 0.85;
+}
+
+/* Main Container */
+.index-hero-section .index-hero-container {
+  position: relative;
+  z-index: 10;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 160px 40px 80px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+/* Hero Content Block */
+.index-hero-section .index-hero-content {
+  flex: 1;
+  max-width: 760px;
+  text-align: right;
+}
+
+/* Eyebrow */
+.index-hero-section .index-hero-eyebrow {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.index-hero-section .index-hero-eyebrow-line {
+  display: block;
+  width: 40px;
+  height: 1.5px;
+  background: #C8924A;
+  flex-shrink: 0;
+}
+
+.index-hero-section .index-hero-eyebrow-text {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #C8924A;
+  font-family: sans-serif;
+  white-space: nowrap;
+}
+
+/* H1 */
+.index-hero-section .index-hero-h1 {font-size: 3.8rem;
+  font-weight: 300;
+  letter-spacing: -0.01em;
+  line-height: 1.1;
+  color: var(--text-light);
+  font-family: 'Georgia', 'Times New Roman', serif;
+  margin: 0 0 20px 0;}
+
+/* Gold Rule */
+.index-hero-section .index-hero-gold-rule {
+  width: 56px;
+  height: 2px;
+  background: linear-gradient(90deg, #C8924A 0%, #D4A96A 100%);
+  margin-inline-start: auto;
+  margin-bottom: 24px;
+  border-radius: 1px;
+}
+
+/* H3 Subtitle */
+.index-hero-section .index-hero-h3 {
+  font-size: 1.15rem;
+  font-weight: 300;
+  line-height: 1.7;
+  color: rgba(255, 255, 255, 0.88);
+  font-family: 'Inter', system-ui, sans-serif;
+  margin: 0 0 36px 0;
+  text-shadow: 0 1px 12px rgba(0,0,0,0.45);
+  max-width: 620px;
+  margin-inline-start: auto;
+}
+
+/* CTA Buttons */
+.index-hero-section .index-hero-ctas {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.index-hero-section .index-hero-btn-primary {
+  background: #C8924A;
+  color: #FFFFFF;
+  padding: 14px 30px;
+  border-radius: 2px;
+  border: none;
+  font-weight: 600;
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Inter', system-ui, sans-serif;
+  transition: background 0.3s ease, transform 0.25s ease, box-shadow 0.3s ease;
+  box-shadow: 0 8px 32px rgba(200, 146, 74, 0.35);
+  cursor: pointer;
+}
+
+.index-hero-section .index-hero-btn-primary:hover {
+  background: #D4A96A;
+  transform: translateY(-3px);
+  box-shadow: 0 16px 48px rgba(200, 146, 74, 0.45);
+}
+
+.index-hero-section .index-hero-btn-secondary {
+  background: transparent;
+  color: #FFFFFF;
+  padding: 13px 28px;
+  border-radius: 2px;
+  border: 1.5px solid rgba(255, 255, 255, 0.7);
+  font-weight: 600;
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Inter', system-ui, sans-serif;
+  transition: border-color 0.3s ease, background 0.3s ease, transform 0.25s ease;
+  cursor: pointer;
+}
+
+.index-hero-section .index-hero-btn-secondary:hover {
+  border-color: #C8924A;
+  background: rgba(200, 146, 74, 0.12);
+  transform: translateY(-3px);
+}
+
+/* Experience Stamp */
+.index-hero-section .index-hero-stamp {
+  flex-shrink: 0;
+  width: 100px;
+  height: 100px;
+  opacity: 0.92;
+  align-self: flex-end;
+  margin-bottom: 8px;
+}
+
+.index-hero-section .index-hero-stamp svg {
+  width: 100%;
+  height: 100%;
+}
+
+/* Bottom Divider */
+.index-hero-section .index-hero-divider-wrapper {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 60px;
+  pointer-events: none;
+  z-index: 5;
+}
+
+.index-hero-section .index-hero-divider-wrapper svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+/* ─── TABLET ─── */
+@media (max-width: 1024px) {
+  .index-hero-section .index-hero-h1 {
+    font-size: 3rem;
+  }
+  .index-hero-section .index-hero-container {
+    padding: 140px 32px 80px;
+    gap: 24px;
+  }
+  .index-hero-section .index-hero-stamp {
+    width: 84px;
+    height: 84px;
+  }
+}
+
+/* ─── MOBILE ─── */
+@media (max-width: 768px) {
+  .index-hero-section .index-hero-container {
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 110px 20px 80px;
+    gap: 24px;
+  }
+
+  .index-hero-section .index-hero-content {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .index-hero-section .index-hero-h1 {
+    font-size: 2.2rem;
+    margin-bottom: 16px;
+  }
+
+  .index-hero-section .index-hero-h3 {
+    font-size: 1rem;
+    margin-bottom: 28px;
+  }
+
+  .index-hero-section .index-hero-ctas {
+    gap: 12px;
+  }
+
+  .index-hero-section .index-hero-btn-primary,
+  .index-hero-section .index-hero-btn-secondary {
+    padding: 12px 22px;
+    font-size: 0.74rem;
+  }
+
+  .index-hero-section .index-hero-stamp {
+    width: 72px;
+    height: 72px;
+    align-self: flex-end;
+  }
+
+  .index-hero-section .index-hero-cityline {
+    width: 160px;
+    opacity: 0.55;
+  }
+
+  .index-hero-section .index-hero-eyebrow-text {
+    font-size: 0.6rem;
+  }
+}
+/* ZAPPY_POSTGEN_GUARD_HERO_FONT_CAP:index-hero */
+.hero h1, .hero-section h1, [class*="hero-"] h1, [class~="hero"] h1, .hero .hero-title, .hero-title { font-size: 48px !important; line-height: 1.2 !important; }
+@media (max-width: 1024px) {
+  .hero h1, .hero-section h1, [class*="hero-"] h1, [class~="hero"] h1, .hero .hero-title, .hero-title { font-size: 36px !important; }
+}
+@media (max-width: 768px) {
+  .hero h1, .hero-section h1, [class*="hero-"] h1, [class~="hero"] h1, .hero .hero-title, .hero-title { font-size: 28px !important; }
+}
+
+/* ZAPPY_POSTGEN_GUARD_HERO_TYPO:בית-hero (index-hero) — stripped 1 jarring hero headline effect(s) */
+
+</style>
     <link rel="stylesheet" href="/styles.css">
 
     <style id="zappy-dropdown-submenu-styles">
@@ -855,72 +1154,53 @@
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim">
-  <!-- Background Image -->
-  <div class="index-hero-bg">
-    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Aerial panoramic view of Jerusalem golden stone architecture at golden hour — ancient domes, minarets, and historic rooftops bathed in warm amber light, with the Dome of the Rock visible in the background, evoking heritage, prestige, and the timeless beauty of Jerusalem real estate" width="1200" height="700" src="/assets/site-index-hero-image-1.webp" alt="נוף ירושלים הזהוב — נדל״ן ירושלמי">
-  </div>
+    <section class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim" data-zappy-section="true">
+  <!-- Background Image Layer -->
+  <div class="index-hero-bg" style="background-image: url('assets/site-index-hero-image-1.webp'); background-size: cover; background-position: center;"></div>
 
   <!-- Scrim Overlay -->
   <div class="index-hero-scrim" aria-hidden="true"></div>
 
-  <!-- Jerusalem Skyline Decorative Motif -->
-  <div class="index-hero-cityline" aria-hidden="true">
-    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 220 90" fill="none" xmlns="http://www.w3.org/2000/svg" width="160" height="65">
-      <!-- Minimal Jerusalem skyline outline: dome, minarets, rooftops -->
-      <g stroke="#C8924A" stroke-width="1.2" fill="none" opacity="0.85">
-        <!-- Far left building -->
-        <polyline points="0,80 0,60 10,60 10,80"></polyline>
-        <!-- Minaret left -->
-        <polyline points="18,80 18,42 22,42 22,80"></polyline>
-        <polyline points="20,42 20,36"></polyline>
-        <ellipse cx="20" cy="35" rx="3" ry="4" stroke="#C8924A" stroke-width="1.2"></ellipse>
-        <!-- Rooftop building -->
-        <polyline points="28,80 28,55 40,55 40,80"></polyline>
-        <!-- Dome (Church of Holy Sepulchre / Dome of Rock) -->
-        <polyline points="48,80 48,52"></polyline>
-        <path d="M44,52 Q56,30 68,52"></path>
-        <polyline points="68,52 68,80"></polyline>
-        <!-- Cross on dome -->
-        <line x1="56" y1="30" x2="56" y2="22"></line>
-        <line x1="52" y1="26" x2="60" y2="26"></line>
-        <!-- Middle buildings -->
-        <polyline points="74,80 74,58 84,58 84,80"></polyline>
-        <polyline points="90,80 90,48 96,48 96,80"></polyline>
-        <!-- Tall minaret center -->
-        <polyline points="104,80 104,38 108,38 108,80"></polyline>
-        <path d="M102,38 Q106,28 110,38"></path>
-        <!-- Dome center large -->
-        <polyline points="116,80 116,50"></polyline>
-        <path d="M110,50 Q122,22 134,50"></path>
-        <polyline points="134,50 134,80"></polyline>
-        <!-- Right buildings -->
-        <polyline points="140,80 140,55 152,55 152,80"></polyline>
-        <polyline points="158,80 158,60 166,60 166,80"></polyline>
-        <!-- Minaret right -->
-        <polyline points="174,80 174,40 178,40 178,80"></polyline>
-        <path d="M172,40 Q176,32 180,40"></path>
-        <!-- Far right -->
-        <polyline points="186,80 186,58 200,58 200,80"></polyline>
-        <polyline points="206,80 206,65 220,65 220,80"></polyline>
-        <!-- Ground line -->
-        <line x1="0" y1="80" x2="220" y2="80"></line>
-      </g>
-    </svg>
-  </div>
+  <!-- Jerusalem Cityline Decorative Motif -->
+  <svg class="index-hero-cityline" data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 320 120" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMaxYMax meet">
+    <!-- Dome of the Rock silhouette -->
+    <path d="M160,90 L160,65 Q160,48 175,48 Q190,48 190,65 L190,90" stroke="#C8924A" stroke-width="1.2" fill="none"></path>
+    <ellipse cx="175" cy="48" rx="15" ry="10" stroke="#C8924A" stroke-width="1.2" fill="none"></ellipse>
+    <line x1="175" y1="38" x2="175" y2="28" stroke="#C8924A" stroke-width="1.2"></line>
+    <!-- Tower left -->
+    <path d="M120,90 L120,55 L128,55 L128,90" stroke="#C8924A" stroke-width="1" fill="none"></path>
+    <path d="M120,55 L124,46 L128,55" stroke="#C8924A" stroke-width="1" fill="none"></path>
+    <!-- Tower right -->
+    <path d="M218,90 L218,58 L226,58 L226,90" stroke="#C8924A" stroke-width="1" fill="none"></path>
+    <path d="M218,58 L222,50 L226,58" stroke="#C8924A" stroke-width="1" fill="none"></path>
+    <!-- Minaret -->
+    <path d="M245,90 L245,42 L252,42 L252,90" stroke="#C8924A" stroke-width="1" fill="none"></path>
+    <path d="M243,42 L254,42" stroke="#C8924A" stroke-width="1.2"></path>
+    <path d="M245,42 L248,30 L252,42" stroke="#C8924A" stroke-width="1" fill="none"></path>
+    <!-- Low buildings -->
+    <path d="M80,90 L80,70 L100,70 L100,90" stroke="#C8924A" stroke-width="0.8" fill="none"></path>
+    <path d="M100,90 L100,75 L115,75 L115,90" stroke="#C8924A" stroke-width="0.8" fill="none"></path>
+    <path d="M260,90 L260,72 L278,72 L278,90" stroke="#C8924A" stroke-width="0.8" fill="none"></path>
+    <path d="M278,90 L278,78 L295,78 L295,90" stroke="#C8924A" stroke-width="0.8" fill="none"></path>
+    <!-- Ground line -->
+    <line x1="70" y1="90" x2="305" y2="90" stroke="#C8924A" stroke-width="0.8" opacity="0.5"></line>
+  </svg>
 
   <!-- Hero Content -->
   <div class="index-hero-container">
     <div class="index-hero-content">
 
-      <!-- Caption label -->
-      <span class="index-hero-label">מתווך נדל״ן ירושלמי וותיק</span>
-
-      <!-- Gold rule -->
-      <div class="index-hero-rule" aria-hidden="true"></div>
+      <!-- Eyebrow label -->
+      <div class="index-hero-eyebrow">
+        <span class="index-hero-eyebrow-line" aria-hidden="true"></span>
+        <span class="index-hero-eyebrow-text">מתווך נדל״ן ירושלמי וותיק</span>
+      </div>
 
       <!-- Main Headline -->
       <h1 class="index-hero-h1">אמירים פתרונות נדל״ן</h1>
+
+      <!-- Gold rule -->
+      <div class="index-hero-gold-rule" aria-hidden="true"></div>
 
       <!-- Subtitle -->
       <h3 class="index-hero-h3">מומחיות עמוקה בשכונות ירושלים — לקהילה הישראלית ולקהילה האנגלו-סכסית</h3>
@@ -930,26 +1210,25 @@
         <a href="#contact" class="index-hero-btn-primary">צרו קשר עכשיו</a>
         <a href="#properties" class="index-hero-btn-secondary">לנכסים שלנו</a>
       </div>
-
     </div>
 
     <!-- Experience Stamp -->
     <div class="index-hero-stamp" aria-hidden="true">
-      <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" width="100" height="100">
-        <circle cx="50" cy="50" r="46" stroke="#C8924A" stroke-width="1.4" fill="none"></circle>
-        <circle cx="50" cy="50" r="40" stroke="#C8924A" stroke-width="0.6" fill="none" stroke-dasharray="3 3"></circle>
-        <!-- Arc text top: JERUSALEM EXPERIENCE -->
-        <path id="stamp-arc-top" d="M 12,50 A 38,38 0 0 1 88,50" fill="none"></path>
-        <text font-size="7.5" font-family="Inter,sans-serif" font-weight="700" letter-spacing="2" fill="#C8924A" text-anchor="middle">
-          <textPath href="#stamp-arc-top" startOffset="50%">JERUSALEM EXPERIENCE</textPath>
+      <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="50" cy="50" r="44" stroke="#C8924A" stroke-width="1.5" fill="none"></circle>
+        <circle cx="50" cy="50" r="38" stroke="#C8924A" stroke-width="0.5" fill="none" stroke-dasharray="2 3"></circle>
+        <!-- Arc text top -->
+        <path id="topArc" d="M 14,50 A 36,36 0 0,1 86,50" fill="none"></path>
+        <text font-size="7" font-weight="700" letter-spacing="2" fill="#C8924A" font-family="sans-serif" text-anchor="middle">
+          <textPath href="#topArc" startOffset="50%">JERUSALEM EXPERIENCE</textPath>
         </text>
         <!-- Center text -->
-        <text x="50" y="48" text-anchor="middle" font-size="18" font-weight="700" fill="#C8924A" font-family="Inter,sans-serif">20+</text>
-        <text x="50" y="60" text-anchor="middle" font-size="7" font-weight="600" fill="#C8924A" font-family="Inter,sans-serif" letter-spacing="1">YEARS</text>
+        <text x="50" y="48" text-anchor="middle" font-size="18" font-weight="300" fill="#C8924A" font-family="serif">20+</text>
+        <text x="50" y="61" text-anchor="middle" font-size="6.5" font-weight="700" letter-spacing="1.5" fill="#C8924A" font-family="sans-serif">YEARS</text>
         <!-- Arc text bottom -->
-        <path id="stamp-arc-bottom" d="M 12,50 A 38,38 0 0 0 88,50" fill="none"></path>
-        <text font-size="7" font-family="Inter,sans-serif" font-weight="600" letter-spacing="1.5" fill="#C8924A" text-anchor="middle">
-          <textPath href="#stamp-arc-bottom" startOffset="50%">נדל״ן ירושלמי</textPath>
+        <path id="bottomArc" d="M 14,50 A 36,36 0 0,0 86,50" fill="none"></path>
+        <text font-size="7" font-weight="700" letter-spacing="2" fill="#C8924A" font-family="sans-serif" text-anchor="middle">
+          <textPath href="#bottomArc" startOffset="50%">ירושלים</textPath>
         </text>
       </svg>
     </div>
@@ -957,11 +1236,10 @@
 
   <!-- Bottom Divider -->
   <div class="index-hero-divider-wrapper">
-    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1200 70" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0,70 L0,38 Q100,28 200,36 T400,30 Q500,26 600,34 T800,28 Q900,24 1000,32 T1200,26 L1200,70 Z" fill="#F2EDE6"></path>
+    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1440 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0,60 L0,28 Q120,18 240,26 T480,22 Q600,26 720,20 T960,24 Q1080,28 1200,22 T1440,26 L1440,60 Z" fill="#F2EDE6"></path>
     </svg>
   </div>
-
 </section>
 
     <section class="featured-products-section" id="featured-products" data-zappy-dynamic="true">
