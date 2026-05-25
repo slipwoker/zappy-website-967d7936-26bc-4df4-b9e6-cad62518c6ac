@@ -1,0 +1,81 @@
+# אמירים פתרונות נדל"ן — Generative Engine Optimization Map
+
+> A veteran Jerusalem-based real estate broker with extensive experience serving both the local Israeli population and the Anglo-Saxon (English-speaking) community. The brand must project professionalism, trustworthiness, and a clean, polished image. The website needs to be fully bilingual (Hebrew and English), catering to two distinct cultural audiences while maintaining a unified, credible, and sophisticated presence that reflects years of local expertise in Jerusalem's diverse neighborhoods.
+
+---
+
+## Pages
+
+### בית
+https://-967d7936.zappy5.app
+סוכן נדל&quot;ן מוביל בירושלים עם ניסיון עשיר בשוק המקומי והבינלאומי. מחפשים נכס? אנחנו מביאים לכם מומחיות, אמינות ותוצאות מוכחות. גלו עכשיו!
+
+### שירותים
+https://-967d7936.zappy5.app/services
+מרכישה ועד מכירה, אנחנו מציעים שירותי נדל&quot;ן מקיפים הכוללים תיווך, ליווי עסקאות ורישום נכסים מסחריים. הצלחת העסקה שלכם מתחילה כאן — פנו אלינו היום!
+
+### אודות
+https://-967d7936.zappy5.app/about
+היכרו עם הצוות הוותיק שמאחורי אמירים פתרונות נדל&quot;ן — עשרות שנות ניסיון בשוק הירושלמי, שירות דו-לשוני ומחויבות מלאה לכל לקוח. כי אמון הוא הבסיס לכל עסקה מוצלחת.
+
+### צור קשר
+https://-967d7936.zappy5.app/contact
+רוצים לקנות, למכור או להשקיע בנדל&quot;ן בירושלים? צרו קשר עם סוכן הנדל&quot;ן המוביל שלנו עוד היום ותקבלו ייעוץ מקצועי ואישי שיוביל אתכם להחלטה הנכונה. אנחנו כאן בשבילכם!
+
+### Products
+https://-967d7936.zappy5.app/products
+המוצרים שלנו - אמירים פתרונות נדל"ן
+
+### Product Detail
+https://-967d7936.zappy5.app/product/:slug
+פרטי המוצר - אמירים פתרונות נדל"ן
+
+### Category
+https://-967d7936.zappy5.app/category/:slug
+מוצרים - אמירים פתרונות נדל"ן
+
+## Legal & Policy
+
+### Privacy Policy
+https://-967d7936.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-967d7936.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-967d7936.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אמירים פתרונות נדל"ן
+A veteran Jerusalem-based real estate broker with extensive experience serving both the local Israeli population and the Anglo-Saxon (English-speaking) community. The brand must project professionalism, trustworthiness, and a clean, polished image. The website needs to be fully bilingual (Hebrew and English), catering to two distinct cultural audiences while maintaining a unified, credible, and sophisticated presence that reflects years of local expertise in Jerusalem's diverse neighborhoods.
+
+## Target Audience
+- קהל דו-לשוני: דוברי עברית וקהל אנגלו-סכסי (עולים ותושבים זרים) בירושלים
+- קהילה דו-לשונית בירושלים
+- עולים אנגלו-סכסים
+- מקצוענים זרים
+
+## Industry
+Real Estate
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-967d7936.zappy5.app/sitemap.xml
+- Robots: https://-967d7936.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-967d7936.zappy5.app/llms-full.txt
+- Products (JSON): https://-967d7936.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-967d7936.zappy5.app/product-feed.xml
